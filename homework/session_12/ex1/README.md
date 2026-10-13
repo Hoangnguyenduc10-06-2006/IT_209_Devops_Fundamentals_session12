@@ -1,5 +1,5 @@
 # BÁO CÁO THỰC HÀNH CI/CD: KIỂM THỬ ĐA PHIÊN BẢN JAVA VỚI MATRIX STRATEGY (GITHUB ACTIONS)
-
+![alt text](image.png)
 > **Môn học:** IT-209 – DevOps Fundamentals  
 > **Bài thực hành:** Session 12 – Bài 1 (Exercise 1)  
 > **Đường dẫn nộp bài:** `homework/session_12/ex1/`  
@@ -132,8 +132,3 @@ git push -u origin main
 
 ---
 
-## 6. Kết quả thực thi (Ảnh minh chứng)
-
-> **Lưu ý:** Sau khi push code lên GitHub và workflow chạy xong, hãy chụp ảnh màn hình tab Actions hiển thị 2 sub-job xanh và lưu vào thư mục này với tên `screenshot.png` (hoặc `image.png`).
-
-![Minh chứng Matrix Test chạy thành công](screenshot.png)
